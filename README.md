@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Tcoder206/tcoder206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐧 ABOUT ME
+* I'm from Vietnam, live on earth in the solar system ✌
+* Favourite Colors: ⬛ + ⬜
+* My English grammar is not good and I'm just a noob coder so don't judge me 👌 
+* Favourite Subject: Math and Programming (but I'm too lazy to learn it 😑)
+* Favorite programming language: JavaScript, Python, HTML and CSS 💻
+* Future plans: Learn C++, Java and C# in the future 👨‍💻
+## 📋 TODOLIST
+- [ ] Learn ReactJS and NodeJS
+- [ ] Create and public NPM Package
+- [ ] Pass My Favourite University
+- [ ] Finish My Life
