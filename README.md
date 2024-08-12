@@ -2,13 +2,17 @@
 * I'm from Vietnam, live on earth in the solar system ✌
 * Favourite Colors: ⬛ + ⬜
 * My English grammar is not good and I'm just a noob coder so don't judge me 👌 
-* Favourite Subject: Math and Programming (but I'm too lazy to learn it 😑) <br/> <br/>
+* I like Math and Programming but I'm too lazy to learn it 😑
+* I'm in the process of improving myself so I hope you guys can support me 😅
+* You can contact me through social media if you want to discuss a project or just chat with me as a friend (preferably if you're a girl 😳) <br/> <br/>
 [![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ---
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false) --->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/> 
 ---
 ### 👥 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mtris2kar6/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mtrisdpad) 
@@ -17,6 +21,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)
+<br/><br/> 
 ---
 ### 👨‍💻 Apps & IDEs:
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?logo=Aseprite&logoColor=#7D929E)
@@ -24,6 +29,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+<br/><br/> 
 ---
 ### 🎓 Education: 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)
@@ -33,6 +39,8 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+<br/><br/> 
 ---
 ### ☁️ Server And Hosting:
 ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
@@ -40,9 +48,11 @@
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?logo=glitch&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+<br/><br/> 
 ---
 ### 💻 Front-end:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br/><br/> 
 ---
 ### 📱 Back-end: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -50,6 +60,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br/><br/> 
 ---
 ### 💾 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -57,6 +68,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/> 
 ---
 ### 📚 Frameworks, Platforms and Libraries:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -74,8 +86,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+<br/><br/> 
 ---
 ### 📋 Todolist:
-- [ ] Master All Programming Languages, Frameworks,... that I have mentioned above
-- [ ] Have A Girlfriend
-- [ ] Finish My Life
+- [ ] Master all programming languages, frameworks,... that I have mentioned above
+- [ ] Communicate in English fluently
+- [ ] Have a girlfriend
+- [ ] Finish my life
