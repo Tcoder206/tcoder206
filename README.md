@@ -26,6 +26,8 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@mtris.pks)
 [![Gravatar](https://img.shields.io/badge/gravatar-blue?logo=Gravatar&logoColor=white)](https://gravatar.com/lnmtris)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/lnmtreese/)
+<!--- ![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white) --->
 
 ---
 ### 👨‍💻 Apps & IDEs:
@@ -34,9 +36,10 @@
 [![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<!--- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) --->
 
 ---
-### 🎓 Education: 
+### 🎓 Education & Discussion: 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
@@ -45,7 +48,8 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/)
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/lnmtris)
+<!--- ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue) ---> 
 ---
 ### ☁️ Server And Hosting:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
@@ -102,5 +106,6 @@
 ---
 
 #### Technologies planned to be explored in the future: 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
