@@ -41,7 +41,6 @@
 ---
 ### 🎓 Education & Discussion: 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/)
@@ -49,14 +48,15 @@
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/lnmtris)
+<!--- ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white) --->
 <!--- ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue) ---> 
 ---
 ### ☁️ Server And Hosting:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?logo=glitch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+<!--- ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) --->
 
 ---
 ### 💻 Programming Languages And Markdown Languages:
@@ -91,7 +91,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<!--- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) --->
 
 ---
 ### 📋 Todolist:
