@@ -10,7 +10,8 @@
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
 <br/>
-<!--- <img src="./cutePandaChibi.png" alt="Cuti Panda HiHi =)))" width="150"/> --->
+
+<img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/>
 
 ---
 ### 📊 GitHub Stats:
