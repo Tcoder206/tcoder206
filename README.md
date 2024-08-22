@@ -9,6 +9,9 @@
 [![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
+<br/>
+<img src="./cutePandaChibi.png" alt="Cuti Panda HiHi =)))" style="float:right;" width="200"/>
+
 ---
 ### 📊 GitHub Stats:
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false) --->
