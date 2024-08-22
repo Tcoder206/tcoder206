@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
 <br/>
-<img class="panda_img" src="./cutePandaChibi.png" alt="Cuti Panda HiHi =)))" width="150"/>
+<!--- <img src="./cutePandaChibi.png" alt="Cuti Panda HiHi =)))" width="150"/> --->
 
 ---
 ### 📊 GitHub Stats:
