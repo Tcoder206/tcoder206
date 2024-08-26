@@ -33,3 +33,6 @@ ls
 ---
 For the first time create a repo on github and use git to push: 1 -> 3 -> 4 -> 5 -> 6 <br/>
 After pushing for the first time and want to overwrite it: 1 -> 3 -> 4 -> 5 -> 7
+
+---
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
