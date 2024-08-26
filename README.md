@@ -9,6 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
+
 <br/>
 
 <img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/>
@@ -113,3 +114,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
+---
+<p align="center">
+  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Whether%20Vietnam%27s%20mountains%20and%20rivers%20will%20become%20beautiful%20and%20whether%20the%20Vietnamese%20people%20will%20rise%20to%20the%20stage%20of%20glory%20to%20stand%20shoulder%20to%20shoulder%20with%20the%20world%27s%20great%20powers%20largely%20depends%20on%20how%20well%20you%20study.&author=President%20Ho%20Chi%20Minh" />
+</p>
