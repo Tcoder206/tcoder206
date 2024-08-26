@@ -4,21 +4,21 @@
 * My English grammar is not good and I'm just a noob coder so don't judge me 👌 
 * I like Math and Programming but I'm too lazy to learn it 😑
 * I'm in the process of improving myself so I hope you guys can support me 😅
-* You can contact me through social media if you want to discuss a project or just chat with me as a friend (preferably if you're a girl 😳)
+* Feel free to contact me via social media if you would like to discuss a project or simply chat as a friend (preferably if you're a girl 😳👉👈)
 <br/> <br/>
 [![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 ![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
-
-<br/>
-
-<img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/>
 
 ---
 ### 📊 GitHub Stats:
 <!--- ![](https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false) --->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+### 📈 Line Graph:
+<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
 ---
 ### 👥 Socials: 
@@ -60,7 +60,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?logo=glitch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+<!--- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white) --->
 <!--- ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) --->
 
 ---
@@ -96,7 +96,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-<!--- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) --->
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 ### 📋 Todolist:
@@ -113,6 +113,10 @@
 #### Technologies planned to be explored in the future: 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+<img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/>
 
 ---
 <p align="center">
