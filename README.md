@@ -12,12 +12,19 @@
 
 ---
 ### 📊 GitHub Stats:
-<!--- ![](https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false) --->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&no-bg=true"></td>
+    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
+  </tr>
+  <tr>
+    <td align="center"><img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=transparent&hide_border=true&no-bg=true"></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=tcoder206&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true"></td>
+  </tr>
+</table>
 
 ---
-### 📈 Line Graph:
+### 📈 Contribution Line Graph:
 <p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
 ---
@@ -115,8 +122,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
-<img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/>
+<p align="center"><img width="1000" height="600" src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/></p>
 
 ---
 <p align="center">
