@@ -18,7 +18,7 @@
     <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
   <tr>
-    <td align="center"><img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=transparent&hide_border=true&no-bg=true"></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=transparent&hide_border=true&no-bg=true"></td>
     <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=tcoder206&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true"></td>
   </tr>
 </table>
@@ -60,8 +60,9 @@
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/lnmtris)
-<!--- ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white) --->
-<!--- ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue) ---> 
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
+![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&logo=HackerEarth&logoColor=Blue)
+
 ---
 ### ☁️ Server And Hosting:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
@@ -126,5 +127,5 @@
 
 ---
 <p align="center">
-  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Whether%20Vietnam%27s%20mountains%20and%20rivers%20will%20become%20beautiful%20and%20whether%20the%20Vietnamese%20people%20will%20rise%20to%20the%20stage%20of%20glory%20to%20stand%20shoulder%20to%20shoulder%20with%20the%20world%27s%20great%20powers%20largely%20depends%20on%20how%20well%20you%20study.&author=President%20Ho%20Chi%20Minh" />
+  <img height="180" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Whether%20Vietnam%27s%20mountains%20and%20rivers%20will%20become%20beautiful%20and%20whether%20the%20Vietnamese%20people%20will%20rise%20to%20the%20stage%20of%20glory%20to%20stand%20shoulder%20to%20shoulder%20with%20the%20world%27s%20great%20powers%20largely%20depends%20on%20how%20well%20you%20study.&author=President%20Ho%20Chi%20Minh" />
 </p>
