@@ -48,7 +48,7 @@
 [![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-<!--- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) --->
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)
 
 ---
 ### 🎓 Education & Discussion: 
@@ -68,8 +68,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?logo=glitch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
-<!--- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white) --->
-<!--- ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) --->
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
 ---
 ### 💻 Programming Languages And Markdown Languages:
@@ -86,8 +86,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-<!--- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) --->
-<!--- ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) --->
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 ---
 ### 📚 Frameworks, Platforms and Libraries:
@@ -123,7 +123,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
 ---
-<p align="center"><img width="1000" height="600" src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/></p>
+<p align="center"><img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/></p>
 
 ---
 <p align="center">
