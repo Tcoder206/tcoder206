@@ -8,13 +8,12 @@
 <br/> <br/>
 [![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
-![](https://img.shields.io/badge/100875032141_vietinbank-darkgreen.svg)
-
+[![wakatime](https://wakatime.com/badge/user/6287492b-0236-43e2-b66b-2dbe0984ffe8.svg)](https://wakatime.com/@lnmtris)
 ---
 ### 📊 GitHub Stats:
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&no-bg=true"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
     <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
   <tr>
