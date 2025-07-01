@@ -1,6 +1,4 @@
 ### 🐧 About Me:
-* My Favourite Colors: ⬛ + ⬜
-* My English grammar isn't perfect and I'm just a newbie coder, so don't judge me. 👌 
 * I'm on a journey to better myself, and I'd really appreciate your support along the way. 😅
 * Feel free to contact me via social media if you would like to discuss a project or simply chat as a friend. 👉👈
 <br/> <br/>
@@ -26,13 +24,13 @@
 
 ---
 ### 👥 Socials: 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mtris2kar6/) 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@mtrisdpad) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/724y3g6nvb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mtris.pks/)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lê-nguyễn-minh-trí-114b58311?utm_source=share&utm_campaign=share_via&utm_content=profile)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@deverycode)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@mtris.pks)
+![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 [![Gravatar](https://img.shields.io/badge/gravatar-blue?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/lnmtris)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/lnmtreese/)
 <!--- ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
